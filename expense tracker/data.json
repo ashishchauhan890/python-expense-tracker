@@ -1,0 +1,32 @@
+[
+    {
+        "Amount": 1000,
+        "Category": "sports",
+        "Description": "bat",
+        "Date": "01-10-2026"
+    },
+    {
+        "Amount": 500,
+        "Category": "diet",
+        "Description": "protein",
+        "Date": "03-10-2026"
+    },
+    {
+        "Amount": 1000,
+        "Category": "food",
+        "Description": "banana",
+        "Date": "02-10-2026"
+    },
+    {
+        "Amount": 1250,
+        "Category": "food",
+        "Description": "apple",
+        "Date": "01-10-2026"
+    },
+    {
+        "Amount": 4560,
+        "Category": "diet",
+        "Description": "protein",
+        "Date": "02-10-2026"
+    }
+]
